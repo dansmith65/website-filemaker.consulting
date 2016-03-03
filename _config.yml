@@ -27,3 +27,8 @@ compress_html:
   comments:  all
   endings:   all
   profile: false
+
+# Compress CSS
+# https://jekyllrb.com/docs/assets/
+sass:
+    style: compressed
