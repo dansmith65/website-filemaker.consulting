@@ -19,6 +19,10 @@ safe: true
 timezone: America/Phoenix
 exclude:
   - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
 
 # Build settings
 markdown: kramdown
